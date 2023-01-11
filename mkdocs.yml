@@ -1,0 +1,6 @@
+site_name: Gira Koo
+site_url: https://girakoo.com/
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
