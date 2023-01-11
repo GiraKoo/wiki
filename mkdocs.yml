@@ -1,4 +1,4 @@
-site_name: Gira Koo
+site_name: GiraKoo Home
 site_url: https://girakoo.com/
 theme:
   name: readthedocs
@@ -6,8 +6,8 @@ theme:
     code: "JetBrains Mono"
     language: zh
 nav:
-  - Home: index.md
-  - GiString: gi_string.md
-  - GiJansson: gi_jansson.md
-  - GiLayout: gi_layout.md
-  - GiStrenchImage: gi_strench_image.md
+  - 首页: index.md
+  - GiString项目: gi_string.md
+  - GiJansson项目: gi_jansson.md
+  - GiLayout项目: gi_layout.md
+  - GiStrenchImage项目: gi_strench_image.md
