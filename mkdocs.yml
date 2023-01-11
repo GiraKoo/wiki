@@ -1,20 +1,13 @@
 site_name: Gira Koo
 site_url: https://girakoo.com/
 theme:
-  name: material
+  name: readthedocs
   font:
     code: "JetBrains Mono"
     language: zh
-markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
 nav:
   - Home: index.md
+  - GiString: gi_string.md
+  - GiJansson: gi_jansson.md
+  - GiLayout: gi_layout.md
+  - GiStrenchImage: gi_strench_image.md

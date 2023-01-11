@@ -15,18 +15,19 @@ GiraKoo是希望通过一系列开源的项目：
 
 ## 项目
 
-### GiString
+### 1. GiString
 
 使用C++实现一系列仿照StringBuilder，StringBuffer的接口。最好内部使用引用计数。
+当前内部已经有了一些实现，但是对于各个编码的适配，还是有些力不从心。
 
-### GiJansson
+### 2. GiJansson
 
-将Jansson封装，实现一套更加利于安全使用的Json接口
+将Jansson封装，实现一套更加利于简洁安全使用的Jansson接口。后续可能会考虑出RapidJson接口。
 
-### GiLayout
+### 3. GiLayout
 
 基于动态规划实现Layout布局
 
-### GiStrenchImage
+### 4. GiStrenchImage
 
 可拉伸的图片
