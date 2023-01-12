@@ -1,18 +1,15 @@
 # Giraffe and Kangaroo
 
+主站地址：https://www.girakoo.com/
+
 ## 文化
 
-### 主站Logo
+### Logo
 
-![logo](img\logo.png)
-
-鸣谢设计工具：[YEELOGO](http://yeelogo.com/)
-
-### 备用Logo
-
-![logo1](img\logo1.png)
-
-鸣谢设计工具：[FreeLogoDesign](http://www.freelogodesign.org/)
+| 主站 | 备用 |
+| ---- | ---- |
+| ![logo](img\logo.png) | ![logo1](img\logo1.png) |
+| 鸣谢设计工具：[YEELOGO](http://yeelogo.com/) | 鸣谢设计工具：[FreeLogoDesign](http://www.freelogodesign.org/) |
 
 ### 含义
 
