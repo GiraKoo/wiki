@@ -38,3 +38,5 @@ https://www.girakoo.com/
 2. 新建 feature/xxxx 分支
 3. 提交代码
 4. 新建 Pull Request
+
+![logo.png](https://girakoo.com/img/logo.png)
