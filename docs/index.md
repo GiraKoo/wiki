@@ -1,6 +1,6 @@
 # Giraffe and Kangaroo
 
- ![logo](img\logo.png)
+![logo](img\logo.png)
 
 GiraKoo来源于Giraffe和Kangaroo的组合。
 尝试过GiKoo，但是com的域名难以购买。Girkoo似乎更容易被读成Girk oo。
