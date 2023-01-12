@@ -1,9 +1,10 @@
 site_name: GiraKoo Home
 site_url: https://girakoo.com/
+extra_javascript:
+  - js/baidu.js
 theme:
   name: readthedocs
   font:
-    code: "JetBrains Mono"
     language: zh
 nav:
   - 首页: index.md
