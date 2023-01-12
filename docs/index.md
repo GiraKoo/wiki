@@ -7,7 +7,7 @@
 ### Logo
 
 | 主站 | 备用 |
-| ---- | ---- |
+| :----: | :----: |
 | ![logo](img\logo.png) | ![logo1](img\logo1.png) |
 | 鸣谢设计工具：[YEELOGO](http://yeelogo.com/) | 鸣谢设计工具：[FreeLogoDesign](http://www.freelogodesign.org/) |
 
