@@ -1,6 +1,20 @@
 # Giraffe and Kangaroo
 
+## 文化
+
+### 主站Logo
+
 ![logo](img\logo.png)
+
+鸣谢设计工具：[YEELOGO](http://yeelogo.com/)
+
+### 备用Logo
+
+![logo1](img\logo1.png)
+
+鸣谢设计工具：[FreeLogoDesign](http://www.freelogodesign.org/)
+
+### 含义
 
 GiraKoo来源于Giraffe和Kangaroo的组合。
 尝试过GiKoo，但是com的域名难以购买。Girkoo似乎更容易被读成Girk oo。
