@@ -2,8 +2,11 @@ site_name: GiraKoo Home
 site_url: https://girakoo.com/
 extra_javascript:
   - js/baidu.js
+  - js/font.js
 theme:
   name: material
+  logo: img/logo_hd_bg.png
+  favicon: img/favicon.ico
   icon:
     admonition:
       note: octicons/tag-16
@@ -20,16 +23,34 @@ theme:
       quote: octicons/quote-16
 markdown_extensions:
   - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - toc:
+      permalink: true
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
   - pymdownx.details
-  - pymdownx.highlight:
-      anchor_linenums: true
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
   - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
 nav:
-  - 首页: index.md
-  - GiString项目: gi_string.md
-  - GiJansson项目: gi_jansson.md
-  - GiLayout项目: gi_layout.md
-  - GiStrenchImage项目: gi_strench_image.md
-  - GiListener项目: gi_listener.md
+  - Home Page: index.md
+  - GiString Project: gi_string.md
+  - GiJansson Project: gi_jansson.md
+  - GiLayout Project: gi_layout.md
+  - GiStrenchImage Project: gi_strench_image.md
+  - GiListener Project: gi_listener.md
