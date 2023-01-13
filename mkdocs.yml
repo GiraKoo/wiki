@@ -48,9 +48,9 @@ markdown_extensions:
   - pymdownx.tasklist
   - pymdownx.tilde
 nav:
-  - Home Page: index.md
-  - GiString Project: gi_string.md
-  - GiJansson Project: gi_jansson.md
-  - GiLayout Project: gi_layout.md
-  - GiStrenchImage Project: gi_strench_image.md
-  - GiListener Project: gi_listener.md
+  - HOME: index.md
+  - 1. GiString: gi_string.md
+  - 2. GiJansson: gi_jansson.md
+  - 3. GiLayout: gi_layout.md
+  - 4. GiStrenchImage: gi_strench_image.md
+  - 5. GiListener: gi_listener.md

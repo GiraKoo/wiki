@@ -17,7 +17,7 @@ Chinese, English or Janpanese is available.
 
 ### Logo
 
-![logo](https://girakoo.com/img/logo.png)  
+![logo](./img/logo.png)  
 *From [http://yeelogo.com/](http://yeelogo.com/)*
 
 ## Targets
@@ -33,22 +33,22 @@ EMAIL: [girakoo@163.com](mailto:girakoo@163.com)
 
 ## Projects
 
-### 1. GiString
+### 1. [GiString](./gi_string/)
 
 A string class by c++.  
 
-### 2. GiJansson
+### 2. [GiJansson](./gi_jansson/)
 
 Jansson API
 
-### 3. GiLayout
+### 3. [GiLayout](./gi_layout/)
 
 Layout extension
 
-### 4. GiStrenchImage
+### 4. [GiStrenchImage](./gi_strench_image/)
 
 Strenchable image
 
-### 5. GiListener
+### 5. [GiListener](./gi_listener/)
 
 Listeners with priority.
