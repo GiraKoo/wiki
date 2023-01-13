@@ -1,51 +1,51 @@
 # Giraffe and Kangaroo
 
-EMAIL: [girakoo@163.com](mailto:girakoo@163.com)  
-主站地址：[https://girakoo.com](https://girakoo.com/)
+Hi, This is GiraKoo.  
+GiraKoo is short for Giraffe and Kangaroo.  
 
-## 文化
+My remark name is ✨**Giraffe**✨ on WeChat.  
+My wife's remark name is ✨**Kangaroo**✨ on WeChat.  
+
+If you interest with my projects, or have any thoughts about them.  
+Please let me know. Email is recommended.  
+Chinese, English or Janpanese is available.  
+
+Home page: [https://girakoo.com](https://girakoo.com/)  
+EMAIL: [girakoo@163.com](mailto:girakoo@163.com)
+
+## 文化 Culture
 
 ### Logo
 
-| 主站 | 备用 |
-| :----: | :----: |
-| ![logo](img\logo.png) | ![logo1](img\logo1.png) |
-| 鸣谢设计工具：[YEELOGO](http://yeelogo.com/) | 鸣谢设计工具：[FreeLogoDesign](http://www.freelogodesign.org/) |
+| **Home Page Logo** |
+| :----: |
+| ![logo](https://girakoo.com/img/logo.png) |
+| From [http://yeelogo.com/](http://yeelogo.com/) |
 
-### 含义
+## Targets
 
-GiraKoo来源于Giraffe和Kangaroo的组合。
-尝试过GiKoo，但是com的域名难以购买。Girkoo似乎更容易被读成Girk oo。
-GiKro看上去是一个奇怪的名字，也难以和Kangaroo一样令人觉得可爱。
-最后，选择了GiraKoo.com，或许这就是最好的安排。
+- Some thoughts could be helpful to other developers.
+- My problems could be pointed out.
+- Improve my skills through practice.
 
-## 目标
+## Projects
 
-GiraKoo是希望通过一系列开源的项目：
+### 1. GiString class
 
-- 让一些想法能够被更多的人使用。
-- 能够有大神指出我的问题。
-- 能够有一些属于自己的作品。
+A string class by c++.  
 
-## 项目
-
-### 1. GiString
-
-使用C++实现一系列仿照StringBuilder，StringBuffer的接口。最好内部使用引用计数。
-当前内部已经有了一些实现，但是对于各个编码的适配，还是有些力不从心。
-
-### 2. GiJansson
+### 2. GiJansson class
 
 将Jansson封装，实现一套更加利于简洁安全使用的Jansson接口。后续可能会考虑出RapidJson接口。
 
-### 3. GiLayout
+### 3. GiLayout class
 
 基于动态规划实现Layout布局
 
-### 4. GiStrenchImage
+### 4. GiStrenchImage class
 
 可拉伸的图片
 
-### 5. GiListener
+### 5. GiListener class
 
-各种风格的监听者模式。
+Listeners with priority.

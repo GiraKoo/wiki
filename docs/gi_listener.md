@@ -1,25 +1,23 @@
 # GiListener
 
-开源项目托管地址：  
+Source Code：  
 
 - Gitee: [https://gitee.com/girakoo/gi_listener.git](https://gitee.com/girakoo/gi_listener.git)
 - Github: [https://github.com/girakoo/gi_listener.git](https://github.com/girakoo/gi_listener.git)
 
-## 介绍
+## Description
 
-## 核心功能
+## Features
 
-## 进度
+## Progress
 
-## 联系方式
+## Contact
 
 EMAIL: [girakoo@163.com](mailto:girakoo@163.com)
 
-## 参与贡献
+## Contribute
 
-1. Fork 本仓库
-2. 新建 feature/xxxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-![logo.png](https://girakoo.com/img/logo.png)
+1. Fork repository.
+2. Create feature/xxxx branch.
+3. Commit code.
+4. Create pull request.
