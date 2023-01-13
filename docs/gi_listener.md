@@ -1,6 +1,9 @@
-# GiStrenchImage项目
+# GiListener
 
 开源项目托管地址：  
+
+- Gitee: [https://gitee.com/girakoo/gi_listener.git](https://gitee.com/girakoo/gi_listener.git)
+- Github: [https://github.com/girakoo/gi_listener.git](https://github.com/girakoo/gi_listener.git)
 
 ## 介绍
 

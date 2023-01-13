@@ -1,6 +1,7 @@
 # Giraffe and Kangaroo
 
-主站地址：https://www.girakoo.com/
+EMAIL: [girakoo@163.com](mailto:girakoo@163.com)  
+主站地址：[https://girakoo.com](https://girakoo.com/)
 
 ## 文化
 
@@ -44,3 +45,7 @@ GiraKoo是希望通过一系列开源的项目：
 ### 4. GiStrenchImage
 
 可拉伸的图片
+
+### 5. GiListener
+
+各种风格的监听者模式。

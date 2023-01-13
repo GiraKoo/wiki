@@ -2,8 +2,8 @@
 
 开源项目托管地址：  
 
-- [Gitee](https://gitee.com/girakoo/gi_string.git)  
-- [Github](https://github.com/GiraKoo/gi_string.git)
+- Gitee: [https://gitee.com/girakoo/gi_string.git](https://gitee.com/girakoo/gi_string.git)  
+- Github: [https://github.com/girakoo/gi_string.git](https://github.com/GiraKoo/gi_string.git)
 
 ## 介绍
 
@@ -31,6 +31,10 @@ https://www.girakoo.com/
 ## 进度
 
 - 2022/11/16 [feat] 头文件创建，补充部分类java api。追加中文注释。
+
+## 联系方式
+
+EMAIL: [girakoo@163.com](mailto:girakoo@163.com)
 
 ## 参与贡献
 
