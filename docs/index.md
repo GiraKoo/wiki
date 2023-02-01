@@ -29,7 +29,7 @@ Chinese, English or Janpanese is available.
 ## Contact
 
 HOME: [https://girakoo.com](https://girakoo.com/)  
-EMAIL: [girakoo@163.com](mailto:girakoo@163.com)
+EMAIL: [giraffe@girakoo.com](mailto:giraffe@girakoo.com)
 
 ## Projects
 

@@ -13,7 +13,7 @@ Source Code：
 
 ## Contact
 
-EMAIL: [girakoo@163.com](mailto:girakoo@163.com)
+EMAIL: [giraffe@girakoo.com](mailto:giraffe@girakoo.com)
 
 ## Contribute
 
