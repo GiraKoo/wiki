@@ -1,12 +1,15 @@
-site_name: GiraKoo Home
+site_name: GiraKoo开源项目
 site_url: https://girakoo.com/
 extra_javascript:
   - js/baidu.js
   - js/font.js
+repo_url: https://gitee.com/girakoo
 theme:
   name: material
   logo: img/logo_hd_bg.png
   favicon: img/favicon.ico
+  features:
+    - navigation.instant
   icon:
     admonition:
       note: octicons/tag-16
@@ -47,10 +50,12 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist
   - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true 
 nav:
-  - HOME: index.md
-  - 1. GiString: gi_string.md
-  - 2. GiJansson: gi_jansson.md
-  - 3. GiLayout: gi_layout.md
-  - 4. GiStrenchImage: gi_strench_image.md
-  - 5. GiListener: gi_listener.md
+  - 主页: index.md
+  - GiString: gi_string.md
+  - GiJansson: gi_jansson.md
+  - GiLayout: gi_layout.md
+  - GiStrenchImage: gi_strench_image.md
+  - GiListener: gi_listener.md
