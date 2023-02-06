@@ -1,6 +1,6 @@
 # GiraKoo开源项目
 
-=== “中文”
+=== "中文"
 
     欢迎，这里是GiraKoo开源项目网站。
     GiraKoo，是来自于Giraffe和Kangaroo的缩写组合。
@@ -12,7 +12,7 @@
     欢迎通过E-Mail与我进行联系。
     中文，英语均可。
 
-=== “English”
+=== "English"
 
     Hi, This is GiraKoo‘s open source projects' HomePage.  
     GiraKoo is short for Giraffe and Kangaroo.  
@@ -34,13 +34,13 @@
 
 ## 目标
 
-=== “中文”
+=== "中文"
 
     - 希望我的一些想法，能对其他开发者有帮助。
     - 希望我的问题能够被指出。
     - 通过练习，提高我的技术。
 
-=== “English”
+=== "English"
 
     - Some thoughts could be helpful to other developers.
     - My problems could be pointed out.
