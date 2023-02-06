@@ -2,15 +2,15 @@
 
 === "中文"
 
-    欢迎，这里是GiraKoo开源项目网站。
-    GiraKoo，是来自于Giraffe和Kangaroo的缩写组合。
+    欢迎，这里是GiraKoo开源项目网站。  
+    GiraKoo，是来自于Giraffe和Kangaroo的缩写组合。  
     
-    我的微信备注名是✨Giraffe✨。
-    Honey的微信备注名是✨Kangaroo✨。
+    我的微信备注名是✨Giraffe✨。  
+    Honey的微信备注名是✨Kangaroo✨。  
     
-    如果你对我的项目感兴趣，或者有任何想法。
-    欢迎通过E-Mail与我进行联系。
-    中文，英语均可。
+    如果你对我的项目感兴趣，或者有任何想法。  
+    欢迎通过E-Mail与我进行联系。  
+    中文，英语均可。  
 
 === "English"
 
@@ -52,9 +52,15 @@
 
 ## 捐助
 
-如果我的项目对你有所帮助，希望能请我喝一杯。  
-备注中可注明感兴趣的项目。  
- ![微信收款码](https://girakoo.com/img/donate.jpg "请我喝一杯奶茶")
+=== "中文"
+
+    如果我的项目对你有所帮助，或许可以能请我喝一杯。  
+    备注中可注明感兴趣的项目。  
+    ![微信收款码](https://girakoo.com/img/donate.jpg "请我喝一杯奶茶")
+
+=== “English”
+
+    [Paypal](https://paypal.me/girakoo?country.x=C2&locale.x=zh_XC)
 
 ## 项目一览
 
