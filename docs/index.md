@@ -25,14 +25,14 @@
     Chinese and English is available.  
 
 
-## 简介
+## 简介 Introduction
 
 ### Logo
 
 ![logo](./img/logo.png)  
 *From [http://yeelogo.com/](http://yeelogo.com/)*
 
-## 目标
+## 目标 Targets
 
 === "中文"
 
@@ -46,23 +46,19 @@
     - My problems could be pointed out.
     - Improve my skills through practice.
 
-## 联系方式
+## 联系方式 Contact
 
  [giraffe@girakoo.com](mailto:giraffe@girakoo.com)
 
-## 捐助
+## 捐助 Donate
 
-=== "中文"
+如果我的项目对你有所帮助，或许可以能请我喝一杯。  
+备注中可注明感兴趣的项目。  
 
-    如果我的项目对你有所帮助，或许可以能请我喝一杯。  
-    备注中可注明感兴趣的项目。  
-    ![微信收款码](https://girakoo.com/img/donate.jpg "请我喝一杯奶茶")
+![微信收款码](https://girakoo.com/img/donate.jpg "请我喝一杯奶茶")  
+![Paypal](https://paypal.me/girakoo?country.x=C2&locale.x=zh_XC)
 
-=== “English”
-
-    [Paypal](https://paypal.me/girakoo?country.x=C2&locale.x=zh_XC)
-
-## 项目一览
+## 项目一览 Projects
 
 ### 1. [GiString](./gi_string/)
 
