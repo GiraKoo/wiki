@@ -48,7 +48,7 @@
 
 ## 联系方式 Contact
 
- [giraffe@girakoo.com](mailto:giraffe@girakoo.com)
+ [girakoo@163.com](mailto:girakoo@163.com)
 
 ## 捐助 Donate
 

@@ -10,7 +10,7 @@ Source Code：
 
 ## Contact
 
-EMAIL: [giraffe@girakoo.com](mailto:giraffe@girakoo.com)
+EMAIL: [girakoo@163.com](mailto:girakoo@163.com)
 
 ## Contribute
 
