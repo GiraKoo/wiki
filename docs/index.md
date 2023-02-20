@@ -55,8 +55,13 @@
 如果我的项目对你有所帮助，或许可以能请我喝一杯。  
 备注中可注明感兴趣的项目。  
 
+### 微信
+
 ![微信收款码](https://girakoo.com/img/donate.jpg "请我喝一杯奶茶")  
-![Paypal](https://paypal.me/girakoo?country.x=C2&locale.x=zh_XC)
+
+### PayPal
+
+[Paypal链接](https://paypal.me/girakoo?country.x=C2&locale.x=zh_XC)
 
 ## 项目一览 Projects
 
