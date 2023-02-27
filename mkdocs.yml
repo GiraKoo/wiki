@@ -4,6 +4,7 @@ extra_javascript:
   - js/baidu.js
   - js/font.js
 repo_url: https://gitee.com/girakoo
+copyright: <a href="https://beian.miit.gov.cn/" target="_blank">辽ICP备2023001429号</a>
 theme:
   name: material
   logo: img/logo_hd_bg.png
