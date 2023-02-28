@@ -57,7 +57,7 @@
 
 ### 微信
 
-![微信收款码](https://girakoo.com/img/donate.jpg "请我喝一杯奶茶")  
+![微信收款码](./img/donate.jpg "请我喝一杯奶茶")  
 
 ### PayPal
 
