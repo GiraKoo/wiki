@@ -1,4 +1,4 @@
-# GiraKoo开源项目
+# GiraKoo的开源首页
 
 === "中文"
 
@@ -50,19 +50,6 @@
 
  [girakoo@163.com](mailto:girakoo@163.com)
 
-## 捐助 Donate
-
-如果我的项目对你有所帮助，或许可以能请我喝一杯。  
-备注中可注明感兴趣的项目。  
-
-### 微信
-
-![微信收款码](./img/donate.jpg "请我喝一杯奶茶")  
-
-### PayPal
-
-[Paypal链接](https://paypal.me/girakoo?country.x=C2&locale.x=zh_XC)
-
 ## 项目一览 Projects
 
 ### 1. [GiString](./gi_string/)
@@ -87,9 +74,11 @@
 
 ## 感谢
 
-1. Visual Studio Code：功能强大的C/C++开发IDE
-2. WPS：提供文档，绘图功能。
-3. yeelogo.com：免费的Logo设计工具。
-4. netlify：提供静态网站托管服务。
-5. Github：提供代码托管服务。
-6. Gitee：提供代码托管服务。（本地访问Github不稳定，通过Gitee进行中转）
+1. [Visual Studio Code](https://code.visualstudio.com/)：功能强大的C/C++开发IDE
+2. [WPS](https://wps.cn/)：提供文档，绘图功能。
+3. [yeelogo.com](https://yeelogo.com)：免费的Logo设计工具。
+4. [netlify](https://netlify.com/)：提供静态网站托管服务。
+5. [Github](https://github.com/)：提供代码托管服务。
+6. [Gitee](https://gitee.com/)：提供代码托管服务。（本地访问Github不稳定，通过Gitee进行中转）
+7. [MkDocs](https://github.com/mkdocs/mkdocs)：提供网站框架。
+8. [Mkdocs Material](https://github.com/squidfunk/mkdocs-material)：提供MkDocs主题支持。
