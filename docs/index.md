@@ -48,7 +48,7 @@
 
 ## 联系方式 Contact
 
- [girakoo@163.com](mailto:girakoo@163.com)
+girakoo(at)163.com
 
 ## 项目一览 Projects
 
