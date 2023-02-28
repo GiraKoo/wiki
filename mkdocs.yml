@@ -1,4 +1,4 @@
-site_name: GiraKoo开源项目
+site_name: GiraKoo的开源主页
 site_url: https://girakoo.com/
 extra_javascript:
   - js/baidu.js
