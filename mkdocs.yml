@@ -1,58 +1,61 @@
-site_name: GiraKoo的开源主页
-site_url: https://girakoo.com/
+site_name: GiraKoo的技术分享
+site_url: https://girakoo.cn/
 extra_javascript:
   - js/baidu.js
   - js/font.js
 repo_url: https://gitee.com/girakoo
-copyright: <a href="https://beian.miit.gov.cn/" target="_blank">辽ICP备2023001429号</a>
+copyright: <a href="https://beian.miit.gov.cn/" target="_blank">辽ICP备2023001429号</a> Copyright &copy; 2022-2023 girakoo.cn
 theme:
   name: material
   logo: img/logo_hd_bg.png
   favicon: img/favicon.ico
   features:
     - navigation.instant
-  icon:
-    admonition:
-      note: octicons/tag-16
-      abstract: octicons/checklist-16
-      info: octicons/info-16
-      tip: octicons/squirrel-16
-      success: octicons/check-16
-      question: octicons/question-16
-      warning: octicons/alert-16
-      failure: octicons/x-circle-16
-      danger: octicons/zap-16
-      bug: octicons/bug-16
-      example: octicons/beaker-16
-      quote: octicons/quote-16
-markdown_extensions:
-  - admonition
-  - codehilite:
-      guess_lang: false
-      linenums: false
+    - navigation.top
+    - navigation.path
+    - content.code.copy
+    - toc.integrate
+    - navigation.sections
+plugins:
+  - offline
+  - search:
+      lang:
+          - en
+          - ja
+      separator: '[\s\-\.]+'
+  - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - custom-skip-class-name
+       auto_caption: false
+       caption_position: bottom
+markdown_extensions: 
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
-  - footnotes
-  - meta
+      title: On this page
+      toc_depth: 2
+  - tables
+  - attr_list
+  - md_in_html
   - def_list
-  - pymdownx.arithmatex
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_png
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist
-  - pymdownx.tilde
-  - pymdownx.tabbed:
-      alternate_style: true 
 nav:
   - 主页: index.md
   - GiString: gi_string.md
