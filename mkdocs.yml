@@ -1,4 +1,4 @@
-site_name: GiraKoo的技术分享
+site_name: GiraKoo的开源主页
 site_url: https://girakoo.cn/
 extra_javascript:
   - js/baidu.js
