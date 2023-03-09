@@ -7,8 +7,8 @@ git reset HEAD --hard
 git pull
 
 mkdocs build
-if [ -d ${web_path} ]; then
-	//sudo rm ${web_path}/* -rf
-	sudo cp site/* ${web_path}/ -rf
-	sudo chown www:www ${web_path} -R
+if [ -d ./site ]; then
+	#sudo rm ${web_path}/* -rf
+	sudo chown www:www ./site -R
+	sudo cp ./site/* ${web_path}/ -rf
 fi
